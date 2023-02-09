@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2925060908
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scapejaguar
+      Dependencies: {}
+    Info_1:
+      Name: scapejaguar.unity3d
+      Dependencies:
+        Dependency_0: scapejaguar

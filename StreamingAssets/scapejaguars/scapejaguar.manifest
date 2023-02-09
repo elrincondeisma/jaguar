@@ -1,0 +1,1464 @@
+ManifestFileVersion: 0
+CRC: 4201796290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d59b6dd632d04e929e1e786dad8c660f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1e7d1e761ec9d45899eee6b02b00f76
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e20cacf827af14750819ff050c8bb44a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7dbb68e59ac0f4df387e27e85d313b52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f57b80d3d158bc43a06324ee848876b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b90591db678c48849a31a131c1c77dba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7296b0e1c2648468392f867090fb3df9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56666c5a40171f54783dd416a44f42bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aa2b6a7005774fcc955bf63f8afb40d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08c246680d40cc741b8093858e074aa5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06cc05281fc8c4288899003177f91f5a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e0e9d1eff8a39d43a973665a1252ac5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3c474b90a3e77a439cee98bc98aff89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72f276b88e1918244a287d2acb6635fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19fbb47e4ee3a46f89351d14c9a3d7f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eef42dc9ac2714e1babdd27ca41b853b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf1fb7bf94ac845bca895786fe982a2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3959f56c11fb46168539e2373126617, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8109e8599fe9c49528473b19e6a11643, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8049e0d1887e374c882220fb04f3e98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88c49125d83ca4751b25e76410b8b99e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d94cdb87ca28a44bd92912dc950aac0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73fb1476f98f44bbe9469ee760804ec1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0825f446e1b104aa1b3012a0f67fcd13, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b97285ea379d54441b6ddfe83e786ce1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8517852600bd4bec9b24c3906f787e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 974e7c836afd0498395fa2179797bd8e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fbdac0cb5a994e29b3261b13035bebe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 91a92f90c9332504aa1ad5e2236006b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ceb41114550674837bceefcd7724d38e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9ea98a40d0bf4b69bcb5f4e7070eb11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18f6d6923414b4213a14ebc5f9f5976a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb4690e6c222045aca30fc7f47a5d23b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f480e7b61451547f39aa914d3e3455db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40760910c44b5494bbd7b67ca7644c9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d757d040e91ca41f990c5b621579a5f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c4a8cf1112e34e2fa645d8a657b6e79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7e6de9d9319444beb376770e1756098, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ObjectDictionary
+- AssemblyName: Assembly-CSharp
+  ClassName: ObjectKvp
+- AssemblyName: Assembly-CSharp
+  ClassName: SmileAndLearn.AssetSupply
+- AssemblyName: Assembly-CSharp
+  ClassName: SmileAndLearn.Dialogs.SheetPage
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/EndEditEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromTop_Close.anim
+- Assets/SyncedAssets/Textures/parpados_serpiente.png
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/English.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_PT.asset
+- Assets/SyncedAssets/Textures/torso_silueta.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/Language_Idle.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Textures/banda-tiempo.png
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_LA.asset
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet01_2.asset
+- Assets/SyncedAssets/Textures/brazo_silueta.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/researcher_on.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/deshacer.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_PT.asset
+- Assets/Animations/Lamina4_Anim/Prensa.anim
+- Assets/com.smileandlearn.core.paint@1.0.0/Prefabs/CanvasLienzo_Notes.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_IT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Rueda.asset
+- Assets/Prefabs/SceneResources/ResourcesLoadSPRITEATLAS.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/Portuguese.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_PT.asset
+- Assets/Animations/Intro_Lamina0/Chica.controller
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromTop.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_27.asset
+- Assets/Animations/Intro_Lamina2/chica_idle.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_21.asset
+- Assets/SyncedAssets/Data/Sheet/Sheet05.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_EN.asset
+- Assets/Animations/sheet/Lamina3_Anim/Agua.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Prefabs/CanvasEscapeRoomHome.prefab
+- Assets/Animations/Intro_Lamina2/chico.controller
+- Assets/SyncedAssets/Data/Terms/SC3_47.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_FR.asset
+- Assets/Prefabs/Sheets/Lamina2.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_FR.asset
+- Assets/SyncedAssets/Audio/cactus - planta.wav
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_4.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_LA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Figura.asset
+- Assets/Animations/sheet/ipad.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Textures/tabla-codigo.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_ES.asset
+- Assets/SyncedAssets/Textures/ojos_nino.png
+- Assets/SyncedAssets/Data/Terms/SC3_28.asset
+- Assets/SyncedAssets/Data/Terms/SC3_45.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_FR.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Trampa.asset
+- Assets/SyncedAssets/Textures/fondo_A.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_ES.asset
+- Assets/com.smileandlearn.core.paint@1.0.0/Materials/DrawMaterial.mat
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_CA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Prefabs/CameraEscapeRooms.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_ES.asset
+- Assets/Animations/sheet/Lamina2_Anim/Piedra.anim
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/Latam.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_IT.asset
+- Assets/SyncedAssets/Textures/planta_dcha.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_LA.asset
+- Assets/SyncedAssets/Textures/plantas_esquina_izq.png
+- Assets/Prefabs/[Core_App].prefab
+- Assets/SyncedAssets/Textures/candado2.png
+- Assets/SyncedAssets/Textures/brazo_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_23.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_18.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_CA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_35.asset
+- Assets/SyncedAssets/Textures/cejas_nina.png
+- Assets/SyncedAssets/Textures/chorro_agua1.png
+- Assets/SyncedAssets/Audio/fuente2.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_IT.asset
+- Assets/SyncedAssets/Textures/dl4-brazo_nina.png
+- Assets/SyncedAssets/Data/Terms/SC3_04.asset
+- Assets/SyncedAssets/Textures/dl4-ojos_nina.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_LA.asset
+- Assets/SyncedAssets/Textures/antebrazo_silueta.png
+- Assets/SyncedAssets/Data/Terms/SC3_15.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_ES.asset
+- Assets/SyncedAssets/Textures/liana1.png
+- Assets/SyncedAssets/Textures/dl1-fondo_A.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Columna.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_ES.asset
+- Assets/Animations/sheet/Prismaticos.controller
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_ES.asset
+- Assets/SyncedAssets/Textures/ojos_ferran.png
+- Assets/Animations/sheet/Lamina2_Anim/Llama.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_IT.asset
+- Assets/SyncedAssets/Textures/l3-fondoB.png
+- Assets/SyncedAssets/Textures/cuerpo_nino.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Ojos.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_EN.asset
+- Assets/Animations/sheet/Serpiente.controller
+- Assets/SyncedAssets/Textures/piedras_azules-info.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_LA.asset
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet05_1.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_13.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/Seal.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_PT.asset
+- Assets/SyncedAssets/Textures/turbina_elices.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_CA.asset
+- Assets/SyncedAssets/Textures/cabeza_nina_silueta.png
+- Assets/SyncedAssets/Audio/Trampa.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_IT.asset
+- Assets/Animations/sheet/Lamina2_Anim/Puerta_Abierta.anim
+- Assets/SyncedAssets/Textures/dl3-fondo.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_FR.asset
+- Assets/SyncedAssets/Data/Terms/SC3_75.asset
+- Assets/SyncedAssets/Textures/boca_ferran.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_20.asset
+- Assets/SyncedAssets/Textures/cejas_serpiente.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_CA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Ojos.asset
+- Assets/Animations/Intro_Lamina2/punto_rojo.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_ES.asset
+- Assets/Animations/sheet/Lamina2_Anim/piedra.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_ES.asset
+- Assets/Animations/sheet/Lamina2_Anim/Puerta.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/sealBall.png
+- Assets/Animations/Intro_Lamina0/Chica_Idle.anim
+- Assets/Animations/Intro_Lamina1/Hojas.anim
+- Assets/SyncedAssets/Data/Terms/SC3_22.asset
+- Assets/SyncedAssets/Textures/cabeza_serpiente.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Prismaticos.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_EN.asset
+- Assets/SyncedAssets/Data/Terms/SC3_67.asset
+- Assets/SyncedAssets/Textures/dedo_nina.png
+- Assets/SyncedAssets/Data/Sheet/Sheet01.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_79.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_CA.asset
+- Assets/SyncedAssets/Audio/Plantas 1.wav
+- Assets/SyncedAssets/Textures/cuerpo_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_EN.asset
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/TALE_2.asset
+- Assets/SyncedAssets/Data/Terms/SC3_34.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_EN.asset
+- Assets/SyncedAssets/Textures/nenufar.png
+- Assets/SyncedAssets/Textures/ipad.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_IT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Piedras.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_LA.asset
+- Assets/SyncedAssets/Textures/fondo-color.png
+- Assets/SyncedAssets/Textures/elice2.png
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet05_2.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_LA.asset
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_play.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_LA.asset
+- Assets/SyncedAssets/Textures/cabeza_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_EN.asset
+- Assets/SyncedAssets/Textures/fondo.png
+- Assets/SyncedAssets/Data/Terms/SC3_73.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/Spanish.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_IT.asset
+- Assets/Animations/Intro_Lamina1/chico.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_PT.asset
+- Assets/Animations/Intro_Lamina2/puntoRojo.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_CA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_58.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_ES.asset
+- Assets/Data/Enumerations/SupportedLanguages.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Textures/fondo-menu.png
+- Assets/SyncedAssets/Textures/cuerpo_jaguar.png
+- Assets/Animations/Intro_Lamina3/Chico.controller
+- Assets/SyncedAssets/Data/Terms/SC3_42.asset
+- Assets/SyncedAssets/Data/Terms/SC3_32.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_71.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_FR.asset
+- Assets/SyncedAssets/Textures/cuerpo2.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_LA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_48.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_51.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_9.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_CA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Cantimplora.asset
+- Assets/SyncedAssets/Textures/planta_izq_arriba1.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Platforms/iOS.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/audio_off.png
+- Assets/SyncedAssets/Textures/liana2.png
+- Assets/SyncedAssets/Textures/gente_dcha.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasFontMenu.prefab
+- Assets/SyncedAssets/Textures/cuerpo1.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_FR.asset
+- Assets/SyncedAssets/Textures/figura-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_IT.asset
+- Assets/SyncedAssets/Textures/brazo_ferran_dcha.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Audio/wrong_.mp3
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_CA.asset
+- Assets/Animations/Intro_Lamina3/Chico.anim
+- Assets/SyncedAssets/Textures/l3-fondoA.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/Button_Language.controller
+- Assets/SyncedAssets/Textures/dl1-fondo_B.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_PT.asset
+- Assets/SyncedAssets/Textures/trampa-info.png
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromLeft_Close.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_FR.asset
+- Assets/SyncedAssets/Textures/cuerpo-nino.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_ES.asset
+- Assets/SyncedAssets/Textures/planta.png
+- Assets/Prefabs/Infos/InfoZones2.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_ES.asset
+- Assets/SyncedAssets/Textures/brazo_fila2.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_CA.asset
+- Assets/SyncedAssets/Textures/cascos.png
+- Assets/com.smileandlearn.core@1.0.0/Animations/Language_Show.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_LA.asset
+- Assets/Animations/sheet/Prismaticos.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Difficulties/Advanced.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_EN.asset
+- Assets/Animations/Lamina1_Anim/HojasL1.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/Seal.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_LA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_10.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasToHome.prefab
+- Assets/com.smileandlearn.core@1.0.0/Animations/Language_Hide.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_CA.asset
+- Assets/SyncedAssets/Data/Info/Info.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_PT.asset
+- Assets/Animations/Intro_Lamina0/Chico_Caminando.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_LA.asset
+- Assets/Animations/sheet/Lamina3_Anim/Hombre.anim
+- Assets/SyncedAssets/Textures/cuerpo_serpiente.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_IT.asset
+- Assets/SyncedAssets/Textures/dl3-fondo_B.png
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/EventSystem.prefab
+- Assets/SyncedAssets/Data/Terms/SC3_26.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_EN.asset
+- Assets/Animations/sheet/Cascos.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_EN.asset
+- Assets/SyncedAssets/Data/Terms/SC3_11.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_01.asset
+- Assets/SyncedAssets/Data/Terms/SC3_06.asset
+- Assets/SyncedAssets/Textures/palo_dentro_agua.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_LA.asset
+- Assets/SyncedAssets/Textures/puerta-info.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_4.asset
+- Assets/SyncedAssets/Data/Terms/SC3_80.asset
+- Assets/Animations/Lamina4_Anim/Trio.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/sealBody.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_EN.asset
+- Assets/Animations/sheet/Hojas.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_ES.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Trampa.asset
+- Assets/SyncedAssets/Data/Terms/SC3_13.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_IT.asset
+- Assets/Animations/Intro_Lamina1/Ala.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_22.asset
+- Assets/Animations/Lamina4_Anim/Flashes.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_1.asset
+- Assets/Prefabs/ManagerAndCanvas_Sheet04.prefab
+- Assets/SyncedAssets/Textures/nina.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_FR.asset
+- Assets/Animations/sheet/Lamina3_Anim/Agua.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_IT.asset
+- Assets/SyncedAssets/Textures/cuerda_prismaticos2.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/desinstalar.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_CA.asset
+- Assets/SyncedAssets/Data/Sheet/Sheet03.asset
+- Assets/SyncedAssets/Data/Terms/SC3_24.asset
+- Assets/SyncedAssets/Textures/camara.png
+- Assets/SyncedAssets/Data/Terms/SC3_77.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_PT.asset
+- Assets/Animations/sheet/Elices.anim
+- Assets/SyncedAssets/Data/Terms/SC3_60.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_LA.asset
+- Assets/SyncedAssets/Textures/hombros_jaguar.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/bck_btn_close.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_ES.asset
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_FR.asset
+- Assets/SyncedAssets/Data/Terms/SC3_38.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_EN.asset
+- Assets/SyncedAssets/Textures/barra_avion.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_8.asset
+- Assets/SyncedAssets/Textures/cabeza-nino.png
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Platforms/Linux.asset
+- Assets/Prefabs/SceneResources/ResourcesLoadLOADINGRESOURCES.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_PT.asset
+- Assets/SyncedAssets/Textures/dl2-fondo.png
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_PT.asset
+- Assets/Animations/Intro_Lamina2/chica_caminando.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_LA.asset
+- Assets/SyncedAssets/Textures/cuadrados_verdes-info.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_EN.asset
+- Assets/SyncedAssets/Textures/planta_izq_arriba.png
+- Assets/SyncedAssets/Data/Terms/SC3_18.asset
+- Assets/SyncedAssets/Textures/dl4-cuerpo_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_IT.asset
+- Assets/SyncedAssets/Textures/piedra.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Platforms/WebGL.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/Popup_Hide.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_CA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Cantimplora.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_PT.asset
+- Assets/SyncedAssets/Audio/arrastrapiedra.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_65.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Cactus.asset
+- Assets/Animations/Intro_Lamina3/Chica.controller
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Llama.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_IT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Cascos.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_15.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_PT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Llama.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_08.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_EN.asset
+- Assets/SyncedAssets/Data/Terms/SC3_66.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_6.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/apprentice_on.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Prismaticos.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_FR.asset
+- Assets/Animations/Intro_Lamina1/Ala.controller
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Tutorial/Tutorial4Animatr.controller
+- Assets/SyncedAssets/Data/Terms/SC3_19.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_EN.asset
+- Assets/SyncedAssets/Textures/cara_nina.png
+- Assets/SyncedAssets/Data/Terms/SC3_02.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_EN.asset
+- Assets/Animations/Lamina4_Anim/Prensa.controller
+- Assets/SyncedAssets/Data/Terms/SC3_03.asset
+- Assets/SyncedAssets/Textures/cuerpo_ferran.png
+- "Assets/SyncedAssets/Data/Info/Addressables/Info_1/Nen\xFAfares.asset"
+- Assets/SyncedAssets/Data/Terms/SC3_07.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_CA.asset
+- Assets/SyncedAssets/Textures/cabeza_nino_silueta.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_FR.asset
+- Assets/SyncedAssets/Textures/dl1-cabeza_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_IT.asset
+- Assets/SyncedAssets/Textures/l2-fondoB.png
+- Assets/SyncedAssets/Textures/ojos_nina.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_FR.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Puerta.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_ES.asset
+- Assets/Animations/sheet/Serpiente.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_IT.asset
+- Assets/SyncedAssets/Textures/dl2-fondo_B.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_IT.asset
+- Assets/SyncedAssets/Textures/cascos-info.png
+- Assets/com.smileandlearn.core@1.0.0/Animations/Popup.controller
+- Assets/SyncedAssets/Audio/llama.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_EN.asset
+- Assets/Animations/Intro_Lamina0/Chica_Caminando.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_ES.asset
+- Assets/SyncedAssets/Textures/dl4-Fondo.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_21.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_09.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromLeft.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_69.asset
+- Assets/SyncedAssets/Textures/ojos-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_IT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Puerta.asset
+- Assets/SyncedAssets/Audio/Musica mohina - scape room.wav
+- Assets/SyncedAssets/Data/Terms/SC3_14.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_ES.asset
+- Assets/SyncedAssets/Textures/flor-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_IT.asset
+- Assets/Animations/Intro_Lamina3/Chica.anim
+- Assets/SyncedAssets/Textures/rueda-info.png
+- Assets/com.smileandlearn.core@1.0.0/Animations/Popup_Show.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_languages.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Platforms/Android.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_EN.asset
+- Assets/Resources/CanvasImages.spriteatlas
+- Assets/SyncedAssets/Data/Terms/SC3_33.asset
+- Assets/SyncedAssets/Textures/chorro_agua2.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_EN.asset
+- Assets/SyncedAssets/Textures/cantimplora-info.png
+- "Assets/SyncedAssets/Data/Info/Addressables/Info_2/Nen\xFAfares.asset"
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_52.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/researcher_off.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Rueda.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/popup.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Popup/ShowPopUp.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/pausar.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Platforms.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_15_CA.asset
+- Assets/SyncedAssets/Textures/l2-fondoA.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_CA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Columna.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Tablet.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_FR.asset
+- Assets/Animations/Intro_Lamina3/Jaguar.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_PT.asset
+- Assets/SyncedAssets/Textures/brillo_fotos.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_EN.asset
+- Assets/SyncedAssets/Textures/cabeza_nino2.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_CA.asset
+- Assets/SyncedAssets/Textures/fondo_B.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/bckgLanguage.png
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet01_1.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_22_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromLeft_Idle.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_lens.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_CA.asset
+- Assets/Animations/sheet/Hojas.controller
+- Assets/SyncedAssets/Textures/dl2-cabeza_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/bck_btn_accept.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_LA.asset
+- Assets/Animations/Intro_Lamina1/HojasInt1.controller
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_LA.asset
+- Assets/SyncedAssets/Audio/piedracorta.wav
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_56.asset
+- Assets/com.smileandlearn.core.paint@1.0.0/SyncedAssets/Audio/draw.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_ES.asset
+- Assets/Prefabs/Infos/InfoZones1.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_20.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/master_off.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Tutorial/HandToCode.anim
+- Assets/SyncedAssets/Data/Terms/SC3_53.asset
+- Assets/SyncedAssets/Textures/ojos_cerrados-nino.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_54_PT.asset
+- Assets/SyncedAssets/Textures/cabeza_nino1.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_EN.asset
+- Assets/Animations/Intro_Lamina1/chica.anim
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/French.asset
+- Assets/Animations/Lamina4_Anim/Brillos.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_LA.asset
+- Assets/SyncedAssets/Textures/l1-FondoB.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_LA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_FR.asset
+- Assets/Animations/sheet/Lamina2_Anim/Llama.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasExitGame.prefab
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet03_2.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_14.asset
+- Assets/SyncedAssets/Textures/agua.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_37.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_49.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_ES.asset
+- Assets/SyncedAssets/Textures/gemelo_silueta.png
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/Catalan.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_76.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_2.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_LA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1.asset
+- Assets/SyncedAssets/Textures/ojos_llama.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_EN.asset
+- Assets/SyncedAssets/Data/Terms/SC3_74.asset
+- Assets/SyncedAssets/Data/Terms/SC3_10.asset
+- Assets/SyncedAssets/Data/Terms/SC3_55.asset
+- Assets/Prefabs/Infos/InfoZones3.prefab
+- Assets/SyncedAssets/Data/Terms/SC3_70.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_LA.asset
+- Assets/Prefabs/BackgroundCanvas_App.prefab
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_41.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_ES.asset
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet07_2.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_PT.asset
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_IT.asset
+- Assets/SyncedAssets/Textures/columna-info.png
+- Assets/Prefabs/Sheets/Lamina1.prefab
+- Assets/SyncedAssets/Data/Terms/SC3_54.asset
+- Assets/SyncedAssets/Data/Terms/SC3_63.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_LA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_46.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasToHome_Popup.prefab
+- Assets/SyncedAssets/Textures/nenufares-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_CA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_36.asset
+- Assets/SyncedAssets/Textures/gente_centro.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_CA.asset
+- Assets/SyncedAssets/Audio/cuadradosverdes.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_EN.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Liana.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_EN.asset
+- Assets/SyncedAssets/Textures/helice-info.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Textures/llave.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_EN.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Flor.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_19_FR.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Piedras.asset
+- Assets/SyncedAssets/Data/Terms/SC3_68.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_IT.asset
+- Assets/SyncedAssets/Audio/puerta de botiquin.wav
+- Assets/SyncedAssets/Textures/punto_rojo.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_67_EN.asset
+- Assets/SyncedAssets/Textures/vasija-info.png
+- Assets/SyncedAssets/Textures/ojos_personaje.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_LA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_LA.asset
+- Assets/SyncedAssets/Textures/liana-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_EN.asset
+- Assets/Animations/Intro_Lamina3/Jaguar.controller
+- "Assets/SyncedAssets/Data/Info/Addressables/Info_1/Botiqu\xEDn.asset"
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CameraCanvas.prefab
+- Assets/SyncedAssets/Textures/gente_izq.png
+- Assets/SyncedAssets/Textures/dl4-Fondo_B.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_FR.asset
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet03_1.asset
+- Assets/Animations/sheet/Lamina3_Anim/Hombre.controller
+- Assets/SyncedAssets/Audio/cadenitas.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_PT.asset
+- Assets/SyncedAssets/Textures/cuerda_prismaticos1.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/scientist_on.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Ferran.asset
+- Assets/SyncedAssets/Textures/ferran-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_81_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_FR.asset
+- Assets/Prefabs/Sheets/Lamina3.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_close.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Fonts/massallera.ttf
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_CA.asset
+- Assets/SyncedAssets/Textures/elice1.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_13_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_FR.asset
+- Assets/SyncedAssets/Textures/cejas-nino.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_EN.asset
+- Assets/SyncedAssets/Audio/Piedra frota corto 1.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_CA.asset
+- Assets/Animations/Lamina4_Anim/Trio.controller
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_accept.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Fonts/CODE Bold.otf
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Prefabs/ManagerAndCanvas_SheetXX.prefab
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_LA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_40.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Difficulties/Intermediate.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_65_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/exitPopupBck.png
+- Assets/SyncedAssets/Textures/brazo-nina.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_PT.asset
+- Assets/SyncedAssets/Textures/ojo_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasLoading.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_CA.asset
+- Assets/SyncedAssets/Textures/llama.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_CA.asset
+- Assets/SyncedAssets/Textures/cara_ferran.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/sealFlipperLeft.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_EN.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Serpiente.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_LA.asset
+- Assets/Animations/Intro_Lamina1/cuerpo_nina.controller
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/scientist_off.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_35.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/[Core].prefab
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_LA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_50.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_LA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Vasija.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_22_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_PT.asset
+- Assets/SyncedAssets/Textures/brazo_ferran.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_78.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/boton-aprender.png
+- Assets/SyncedAssets/Data/Terms/SC3_17.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_home.png
+- Assets/SyncedAssets/Data/Terms/SC3_61.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_PT.asset
+- Assets/SyncedAssets/Textures/cactus-info.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_exit.png
+- Assets/com.smileandlearn.core@1.0.0/Materials/simpleSmoke3.mat
+- Assets/SyncedAssets/Data/Terms/SC3_81.asset
+- Assets/SyncedAssets/Textures/puerta_cerrada.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_LA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_EN.asset
+- Assets/SyncedAssets/Textures/cejas_ferran.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Cuadrados_verdes.asset
+- Assets/SyncedAssets/Textures/rayo_der.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_1.asset
+- Assets/Animations/sheet/cascos.controller
+- Assets/SyncedAssets/Textures/ceja2_personaje.png
+- Assets/SyncedAssets/Textures/brillo_ipad.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_CA.asset
+- Assets/SyncedAssets/Audio/cristales rotos.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_PT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Tablet.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_69_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_FR.asset
+- Assets/Animations/sheet/Lamina2_Anim/planta.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_EN.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Ferran.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Fonts/UbuntuRegular.ttf
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/CORE_3.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_59.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Figura.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_ES.asset
+- Assets/com.smileandlearn.tale@1.0.0/Prefabs/CanvasInfoEscapes.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_44.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_CA.asset
+- Assets/SyncedAssets/Textures/puerta_abierta.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_IT.asset
+- Assets/SyncedAssets/Textures/llama_parpados.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_FR.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_2.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_38_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_79_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_9_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_36_IT.asset
+- Assets/SyncedAssets/Textures/reflejo_personaje.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Audio/MagicShort.wav
+- Assets/Animations/Intro_Lamina0/Hojas_L0Int.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_25_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_15_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_02_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_1_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_LA.asset
+- Assets/SyncedAssets/Textures/prismaticos-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_ES.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_ES.asset
+- Assets/SyncedAssets/Textures/dl3-cabeza.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_CA.asset
+- Assets/SyncedAssets/Textures/ceja1_personaje.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_FR.asset
+- Assets/SyncedAssets/Textures/l1-FondoA.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_18_EN.asset
+- Assets/SyncedAssets/Textures/llama-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_PT.asset
+- Assets/Animations/sheet/Ipad.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Prefabs/CanvasEscapeRoomTutorial.prefab
+- Assets/SyncedAssets/Audio/Prisionero amordazado.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_sound.png
+- Assets/SyncedAssets/Textures/muslo_silueta.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_64.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_PT.asset
+- Assets/SyncedAssets/Textures/cuello_serpiente.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_78_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_LA.asset
+- Assets/Animations/sheet/Lamina2_Anim/Puerta_Cerrada.anim
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Luna.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_CA.asset
+- Assets/Animations/Intro_Lamina2/chico.anim
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_PT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Helice.asset
+- Assets/Resources/SCAPEJAGUAR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_05_CA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_25.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/InformationPopup.prefab
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_EN.asset
+- Assets/SyncedAssets/Data/Terms/SC3_62.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_31_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromLeft_Open.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_80_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_CA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Serpiente.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_LA.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Fuente.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_73_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Fonts/OpenDyslexicRegular.otf
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Platforms/WSA.asset
+- Assets/SyncedAssets/Textures/prismaticos.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_FR.asset
+- Assets/SyncedAssets/Textures/gente_brazo_fila2.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_01_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Prefabs/EscapeRoomDialogSystem.prefab
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_28_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_2_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/ic_button_on.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_LA.asset
+- Assets/Animations/Intro_Lamina0/Hojas.controller
+- Assets/Animations/sheet/Lamina3_Anim/Candado.anim
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_LA.asset
+- Assets/SyncedAssets/Textures/dl2-fondo_A.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_3_ES.asset
+- Assets/SyncedAssets/Textures/dl4-Fondo_A.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_EN.asset
+- Assets/SyncedAssets/Textures/gente_centro-brazo.png
+- Assets/SyncedAssets/Textures/ala.png
+- Assets/Animations/Intro_Lamina1/cabeza-nino.controller
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_CA.asset
+- Assets/SyncedAssets/Textures/cara_nino.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Tutorial/Tutorial5Animatr.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_EN.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Cascos.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_3_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_FR.asset
+- Assets/Prefabs/ManagerAndCanvas_Sheet02.prefab
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_16_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/Data/Enumerations/Languages/Italian.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_56_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_LA.asset
+- Assets/Animations/Intro_Lamina2/chica.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_IT.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Luna.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_CA.asset
+- Assets/SyncedAssets/Textures/tablet-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_82_FR.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_7.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_24_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_3.asset
+- Assets/SyncedAssets/Data/Terms/SC3_31.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_42_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_46_ES.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Cactus.asset
+- Assets/com.smileandlearn.core.paint@1.0.0/SyncedAssets/Textures/painterBackgroundNotes.png
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromTop_Idle.anim
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Tutorial/HandToNotebook.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_35_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/edit.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_35_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_82.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_11_CA.asset
+- Assets/Animations/Intro_Lamina0/chico.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_37_FR.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/ESCAPE_ROOM_5.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_57_FR.asset
+- Assets/SyncedAssets/Textures/antebrazo.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_10_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_29.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/simpleSmoke3.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_30_FR.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Cuadrados_verdes.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_20_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_41_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_IT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_30.asset
+- Assets/SyncedAssets/Data/Terms/SC3_57.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_EN.asset
+- Assets/SyncedAssets/Textures/dl3-fondo_A.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_39_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_49_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_PT.asset
+- Assets/SyncedAssets/Data/Terms/SC3_16.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_7_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_14_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/audio.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Popup/PopUpLoadGame.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/tutorial_mano.png
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Fuente.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_50_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_48_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_20_FR.asset
+- Assets/Animations/Intro_Lamina0/Chico_Idle.anim
+- Assets/Animations/sheet/Elices.controller
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_texto.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_07_ES.asset
+- Assets/SyncedAssets/Data/Terms/SC3_43.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Audio/successEngine.mp3
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_71_LA.asset
+- "Assets/SyncedAssets/Data/Info/Addressables/Info_2/Botiqu\xEDn.asset"
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_23_LA.asset
+- Assets/Prefabs/CanvasCamera_App.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_EN.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Audio/fx_button_click02.mp3
+- Assets/SyncedAssets/Data/Terms/SC3_05.asset
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_51_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_08_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/SlidingFromTop_Open.anim
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_45_FR.asset
+- Assets/SyncedAssets/Audio/Bolsa de Papas.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_60_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/Animations/Popup_Idle.anim
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/ic_normal.png
+- Assets/Data/Enumerations/SupportedDifficulties.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_17_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_21_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_CA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_ES.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_1/Vasija.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_62_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_44_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_76_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_09_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_6_EN.asset
+- Assets/SyncedAssets/Textures/dl1-cabeza-nino.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_77_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_53_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_18_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_75_ES.asset
+- Assets/Animations/sheet/Lamina2_Anim/Flores.anim
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_10_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_64_FR.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/apprentice_off.png
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasBackground.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_13_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_06_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_68_EN.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_8_PT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Textures/notas.png
+- Assets/Prefabs/ManagerAndCanvas_Sheet06.prefab
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Flor.asset
+- Assets/SyncedAssets/Audio/cuadradoscolorkaki.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_ES.asset
+- Assets/SyncedAssets/Audio/Silbido de serpiente.wav
+- Assets/SyncedAssets/Data/Sheet/Sheet07.asset
+- Assets/SyncedAssets/Data/Terms/SC3_39.asset
+- Assets/SyncedAssets/Data/Terms/SC3_12.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_63_FR.asset
+- Assets/Animations/Lamina1_Anim/HojasL1.anim
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Helice.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_33_CA.asset
+- Assets/SyncedAssets/Audio/brillo de ojo.wav
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_55_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_34_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_26_FR.asset
+- Assets/SyncedAssets/Textures/luna-info.png
+- Assets/SyncedAssets/Textures/botiquin-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_47_PT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_4_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/CanvasLoading_Menu.prefab
+- Assets/com.smileandlearn.tale@1.0.0/SyncedAssets/Data/Terms/Addressables/TALE_2_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_70_CA.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_IT.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_1_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_59_LA.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/sealFlipperRight.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_72_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_2_ES.asset
+- Assets/com.smileandlearn.core@1.0.0/Prefabs/LanguageSelector.prefab
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_12_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_58_IT.asset
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Textures/btn_pressed.png
+- Assets/com.smileandlearn.core@1.0.0/SyncedAssets/Data/Terms/Addressables/CORE_21_IT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_52_EN.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_27_CA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_03_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_61_IT.asset
+- Assets/SyncedAssets/Textures/rayo_izq.png
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_5_PT.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_32_LA.asset
+- Assets/SyncedAssets/Data/Sheet/Addressables/Sheet07_1.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_29_EN.asset
+- Assets/SyncedAssets/Textures/fuente-info.png
+- Assets/SyncedAssets/Textures/dl1-Fondo.png
+- Assets/SyncedAssets/Textures/cabeza.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_LA.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_66_ES.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_14_ES.asset
+- Assets/SyncedAssets/Textures/serpiente-info.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_43_FR.asset
+- Assets/SyncedAssets/Data/Info/Addressables/Info_2/Liana.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/Animations/Popup/HidePopUp.anim
+- Assets/SyncedAssets/Textures/dl2-cuerpo_nina.png
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_74_FR.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_40_CA.asset
+- Assets/SyncedAssets/Data/Terms/SC3_72.asset
+- Assets/SyncedAssets/Data/Terms/Addressables/SC3_04_FR.asset
+- Assets/com.smileandlearn.tale.escaperoom@1.0.0/SyncedAssets/Data/Terms/Addressables/ESCAPE_ROOM_4_IT.asset
+Dependencies: []
